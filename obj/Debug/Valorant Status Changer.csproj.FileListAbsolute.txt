@@ -1,0 +1,10 @@
+C:\Users\rehan\source\repos\Valorant Status Changer\bin\Debug\Valorant Status Changer.exe.config
+C:\Users\rehan\source\repos\Valorant Status Changer\bin\Debug\Valorant Status Changer.exe
+C:\Users\rehan\source\repos\Valorant Status Changer\bin\Debug\Valorant Status Changer.pdb
+C:\Users\rehan\source\repos\Valorant Status Changer\obj\Debug\Valorant Status Changer.csproj.AssemblyReference.cache
+C:\Users\rehan\source\repos\Valorant Status Changer\obj\Debug\Valorant_Status_Changer.Properties.Resources.resources
+C:\Users\rehan\source\repos\Valorant Status Changer\obj\Debug\Valorant Status Changer.csproj.GenerateResource.cache
+C:\Users\rehan\source\repos\Valorant Status Changer\obj\Debug\Valorant Status Changer.csproj.CoreCompileInputs.cache
+C:\Users\rehan\source\repos\Valorant Status Changer\obj\Debug\Valorant Status Changer.exe
+C:\Users\rehan\source\repos\Valorant Status Changer\obj\Debug\Valorant Status Changer.pdb
+C:\Users\rehan\source\repos\Valorant Status Changer\obj\Debug\Valorant_Status_Changer.Form1.resources
